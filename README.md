@@ -6,29 +6,45 @@ This project demonstrates authentication, CRUD operations, inventory management,
 
 📌 Features
 🔹 Backend (Node.js + Express + MongoDB)
+
 User Authentication (Register & Login using JWT).
+
 Sweet Management:
+
 Add, update, and delete sweets (Admin only).
+
 View all sweets.
+
 Search sweets by name, category, or price.
+
 Inventory Management:
+
 Purchase sweets (decrease quantity).
+
 Restock sweets (Admin only).
 
 🔹 Frontend (React)
 
 User registration and login forms.
+
 Dashboard showing all available sweets.
+
 Search and filter sweets.
+
 Purchase button (disabled when stock is zero).
+
 Admin panel for adding, updating, and deleting sweets.
 
 🛠️ Tech Stack
 
 Frontend: React, Axios, CSS/Tailwind/Bootstrap
+
 Backend: Node.js, Express.js
+
 Database: MongoDB (Mongoose ODM)
+
 Authentication: JWT (JSON Web Token)
+
 Testing: Jest / Supertest
 
 🚀 Getting Started
@@ -66,13 +82,18 @@ npm test
 🤖 My AI Usage
 
 I used AI responsibly to accelerate development:
-Tools Used: ChatGPT, GitHub Copilot.
-How I Used Them:
-Generated boilerplate code for controllers and services.
-Helped design API structures.
-Suggested test cases and debugging tips.
-Reflection: AI improved productivity by reducing repetitive coding. I manually refined and validated all outputs to ensure correctness and maintainability.
 
+Tools Used: ChatGPT, GitHub Copilot.
+
+How I Used Them:
+
+Generated boilerplate code for controllers and services.
+
+Helped design API structures.
+
+Suggested test cases and debugging tips.
+
+Reflection: AI improved productivity by reducing repetitive coding. I manually refined and validated all outputs to ensure correctness and maintainability.
 📦 Deliverables
 
 ✅ Backend (Node.js + Express + MongoDB)
