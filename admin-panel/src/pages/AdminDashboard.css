@@ -1,0 +1,29 @@
+/* admin-panel/src/pages/AdminDashboard.css */
+.admin-dashboard {
+  padding: 20px 0;
+}
+
+.admin-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid #e9ecef;
+}
+
+.admin-header h1 {
+  color: #2c3e50;
+  margin: 0;
+}
+
+.access-denied {
+  text-align: center;
+  padding: 50px;
+  font-size: 1.2rem;
+  color: #dc3545;
+  background: #f8d7da;
+  border: 1px solid #f5c6cb;
+  border-radius: 5px;
+  margin: 20px 0;
+}
