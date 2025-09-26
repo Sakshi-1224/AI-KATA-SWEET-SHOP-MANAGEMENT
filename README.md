@@ -5,6 +5,7 @@ This project demonstrates authentication, CRUD operations, inventory management,
 
 
 📌 Features
+
 🔹 Backend (Node.js + Express + MongoDB)
 
 User Authentication (Register & Login using JWT).
