@@ -51,7 +51,7 @@ Testing: Jest / Supertest
 🚀 Getting Started
 1️⃣ Clone the repository
 git clone 
-[https://github.com/your-username/sweet-shop-management.git](https://github.com/Sakshi-1224/AI-KATA-SWEET-SHOP-MANAGEMENT.git)
+(https://github.com/Sakshi-1224/AI-KATA-SWEET-SHOP-MANAGEMENT.git)
 
 cd sweet-shop-management
 
